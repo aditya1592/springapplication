@@ -1,0 +1,4 @@
+outs:
+- md5: acb6d03ec47377969c13719041b4182d
+  size: 10511631
+  path: locationInfo.sql
